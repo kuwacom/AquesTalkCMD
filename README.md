@@ -1,2 +1,2 @@
 # AquesTalkCMD
-AquesTalkCMD version
+Command line version of AquesTalk with DLL dynamic loading.
